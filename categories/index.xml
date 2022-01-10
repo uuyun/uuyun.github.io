@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 云间 &amp;  网址导航</title>
+<<<<<<< HEAD
+    <link>http://daohang.yunio.cn/categories/</link>
+    <description>Recent content in Categories on 云间 &amp;  网址导航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="http://daohang.yunio.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://yunjianit.github.io/categories/</link>
+    <description>Recent content in Categories on 云间 &amp;  网址导航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://yunjianit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6463736 (0110)
+  </channel>
+</rss>
